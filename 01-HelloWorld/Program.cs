@@ -5,5 +5,7 @@ class Program
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Type something to close...");
+            Console.ReadLine();
         }
     }
