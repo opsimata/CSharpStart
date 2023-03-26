@@ -4,21 +4,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Creating Variables:");
+        Console.WriteLine("Floating Point Variables:");
 
-        int age;
-        age = 23;
+        double salary;
 
-        Console.WriteLine("\nAge: " + age);
+        salary = 3148.14;
 
+        Console.WriteLine("\n" + salary);
 
-        age = 34 * 2 + 1;
-        age = 4 * (2 + 3);
+        double age = 7.0 / 5;
 
         Console.WriteLine("\nAge: " + age);
 
         Console.WriteLine("\nPress any key to close...");
         Console.ReadLine();
-
     }
 }
