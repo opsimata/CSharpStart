@@ -10,7 +10,7 @@ class Program
 
         salary = 3148.14;
 
-        Console.WriteLine("\n" + salary);
+        Console.WriteLine("\nSalary: " + salary);
 
         double age = 7.0 / 5;
 
