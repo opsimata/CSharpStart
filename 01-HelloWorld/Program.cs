@@ -6,6 +6,6 @@ class Program
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Type something to close...");
-            Console.ReadLine();
+            Console.Read();
         }
     }

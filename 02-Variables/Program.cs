@@ -17,7 +17,7 @@ class Program
 
         Console.WriteLine("\nAge: " + age);
 
-        Console.WriteLine("\nPress any key to close...");
+        Console.Write("\nPress any key to close...");
         Console.ReadLine();
 
     }

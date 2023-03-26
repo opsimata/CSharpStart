@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("VariablesConversion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("04-VariablesConversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("VariablesConversion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("VariablesConversion")]
+[assembly: System.Reflection.AssemblyProductAttribute("04-VariablesConversion")]
+[assembly: System.Reflection.AssemblyTitleAttribute("04-VariablesConversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
