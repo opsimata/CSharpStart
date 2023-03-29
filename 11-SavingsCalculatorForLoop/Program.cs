@@ -4,13 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-
-        int numero = 6;
-
-        numero--;
-
-        Console.WriteLine("\nNúmero: " + numero);
-
         Console.Write("Savings Calculator:\n");
 
         double deposits = 1000;
