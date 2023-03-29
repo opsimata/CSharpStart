@@ -5,16 +5,21 @@ class Program
     static void Main(string[] args)
     {
 
+        int numero = 6;
+
+        numero--;
+
+        Console.WriteLine("\nNúmero: " + numero);
+
         Console.Write("Savings Calculator:\n");
 
         double deposits = 1000;
-        int month = 1;
 
         //monthly return: 0.5% + 1000 deposit.
 
-        while (month <= 12)
+        for (int month = 1; month <= 12; month++)
         {
-            deposits = deposits + deposits * 0.005;
+            deposits *= 0.005;
             Console.Write("\nTotal income in month " + month + ": $" + deposits);
         }
 
