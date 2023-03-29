@@ -12,11 +12,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Variables", "02-Variable
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-FloatingPointVariables", "03-FloatingPointVariables\03-FloatingPointVariables.csproj", "{8219C6F1-C4B0-44CA-B224-D0085A22BF2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-VariablesConversion", "04-VariablesConversion\04-VariablesConversion.csproj", "{DBD91FA4-1F5F-4D64-8370-E3C8BB423152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-VariablesConversion", "04-VariablesConversion\04-VariablesConversion.csproj", "{DBD91FA4-1F5F-4D64-8370-E3C8BB423152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-CharactersAndStrings", "05-CharactersAndStrings\05-CharactersAndStrings.csproj", "{2BCE1BC2-19FC-45E1-AFEC-E4C305D2532D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-CharactersAndStrings", "05-CharactersAndStrings\05-CharactersAndStrings.csproj", "{2BCE1BC2-19FC-45E1-AFEC-E4C305D2532D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-VariablesAttributionsConcept", "06-VariablesAttributionsConcept\06-VariablesAttributionsConcept.csproj", "{13BC8123-0ECB-4630-9028-6443C6BC3CA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-VariablesAttributionsConcept", "06-VariablesAttributionsConcept\06-VariablesAttributionsConcept.csproj", "{13BC8123-0ECB-4630-9028-6443C6BC3CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-ConditionalStatements", "07-ConditionalStatements\07-ConditionalStatements.csproj", "{51F827AC-C679-408A-8365-DC2792FD2AF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +50,10 @@ Global
 		{13BC8123-0ECB-4630-9028-6443C6BC3CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13BC8123-0ECB-4630-9028-6443C6BC3CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13BC8123-0ECB-4630-9028-6443C6BC3CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F827AC-C679-408A-8365-DC2792FD2AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F827AC-C679-408A-8365-DC2792FD2AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F827AC-C679-408A-8365-DC2792FD2AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F827AC-C679-408A-8365-DC2792FD2AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
