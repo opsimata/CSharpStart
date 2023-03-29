@@ -8,20 +8,16 @@ class Program
 
         int age = 16, qttPeople = 2;
 
-        if (age >= 18)
+        bool accompanied = qttPeople >= 2;
+        bool group = true;
+
+        if (age >= 18 || accompanied)
         {
             Console.WriteLine("\nAllowed in!");
         }
         else
         {
-            if (qttPeople >= 2)
-            {
-                Console.WriteLine("\nAllowed in with a legal of age companion!");
-            }
-            else
-            {
-                Console.WriteLine("\nNot allowed!");
-            }
+            Console.WriteLine("\nNot allowed!");
         }
 
         Console.Write("\nPress any key to close...");
