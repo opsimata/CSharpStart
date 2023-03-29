@@ -13,13 +13,9 @@ class Program
         string addtText;
 
         if (accompanied == true)
-        {
             addtText = "The guest is accompanied!";
-        }
         else
-        {
             addtText = "The guest is underaged and isn't accompanied!";
-        }
 
         if (age >= 18 || accompanied)
         {
