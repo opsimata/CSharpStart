@@ -18,13 +18,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-CharactersAndStrings", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-VariablesAttributionsConcept", "06-VariablesAttributionsConcept\06-VariablesAttributionsConcept.csproj", "{13BC8123-0ECB-4630-9028-6443C6BC3CA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-ConditionalStatements", "07-ConditionalStatements\07-ConditionalStatements.csproj", "{51F827AC-C679-408A-8365-DC2792FD2AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-ConditionalStatements", "07-ConditionalStatements\07-ConditionalStatements.csproj", "{51F827AC-C679-408A-8365-DC2792FD2AF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-BooleanConditionals", "08-BooleanConditionals\08-BooleanConditionals.csproj", "{EBCD8490-B487-42E3-9DE2-78CC7E44DF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-BooleanConditionals", "08-BooleanConditionals\08-BooleanConditionals.csproj", "{EBCD8490-B487-42E3-9DE2-78CC7E44DF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-ProjectScope", "09-ProjectScope\09-ProjectScope.csproj", "{B5C470CD-318B-4A4E-B81B-73201802EE7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-ProjectScope", "09-ProjectScope\09-ProjectScope.csproj", "{B5C470CD-318B-4A4E-B81B-73201802EE7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-Exercise_01", "00-Exercise_01\00-Exercise_01.csproj", "{39328383-C3B6-430C-B717-ACE5DED7B414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00-Exercise_01", "00-Exercise_01\00-Exercise_01.csproj", "{39328383-C3B6-430C-B717-ACE5DED7B414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-SavingsCalculator", "10-SavingsCalculator\10-SavingsCalculator.csproj", "{505A6A86-EF09-4724-B44E-49DBDD13A6F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,6 +74,10 @@ Global
 		{39328383-C3B6-430C-B717-ACE5DED7B414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39328383-C3B6-430C-B717-ACE5DED7B414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39328383-C3B6-430C-B717-ACE5DED7B414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505A6A86-EF09-4724-B44E-49DBDD13A6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505A6A86-EF09-4724-B44E-49DBDD13A6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505A6A86-EF09-4724-B44E-49DBDD13A6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505A6A86-EF09-4724-B44E-49DBDD13A6F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
